@@ -1,0 +1,3 @@
+[submodule "tigi-repo"]
+	path = tigi-repo
+	url = https://github.com/yourusername/tigi-repo.git
